@@ -9,6 +9,7 @@ public class AAA {
 	        String s3 = "Program" + "ming";
 	        System.out.println(s1 == s2);
 	        System.out.println(s1 == s3);
+	        System.out.println(34);
 	        System.out.println(s1 == s1.intern());
 	}
 
